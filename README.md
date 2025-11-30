@@ -1,6 +1,15 @@
 # Lexical-Analyzer
 A Lexical Analyzer (also called lexer or scanner) is a program that reads a sequence of characters from the source code and breaks it into tokens. Tokens are the small parts of code like keywords, variable names, numbers, operators, or symbols.
 
+
+# Requirements:
+
+Parameter	Details
+Language	Advanced C
+Compiler	GCC (GNU Compiler Collection)
+Operating System	Linux / Windows
+Libraries Used	<stdio.h>, <string.h>, <ctype.h>
+
 # Why This Project
 This project is a C program that simulates a basic lexical analyzer.
 
