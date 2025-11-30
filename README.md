@@ -63,7 +63,9 @@ They work together: the Lexer provides tokens, and the Parser uses them to under
     
     gcc file_names.c
     ex: in my project
-    gcc token.c keywords.c main.c
+    <img width="1164" height="93" alt="image" src="https://github.com/user-attachments/assets/11f63d65-fcfa-4d38-ab56-2c3b17d0153f" />
+
+    gcc main.c token.c keywords.c 
 # 2) How to run
    
    
