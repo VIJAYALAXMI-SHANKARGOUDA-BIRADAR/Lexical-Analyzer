@@ -58,6 +58,36 @@ The Parser takes these tokens and checks if the code follows correct syntax.
 
 They work together: the Lexer provides tokens, and the Parser uses them to understand the program structure.
 
+
+
+# ⭐ Advantages
+
+It helps to break the code into small parts (tokens) easily.
+
+It makes the next step (parsing) simple.
+
+It can find wrong or unknown characters early.
+
+Useful to understand how compilers work.
+
+# ⚠️ Disadvantages
+
+It cannot check grammar or meaning of code.
+
+It supports only limited rules in simple projects.
+
+Handling complex cases (like strings) is difficult.
+
+# 🎯 Applications
+
+Used in compilers to convert code into tokens.
+
+Used in interpreters like Python and JavaScript.
+
+Used in IDEs for syntax coloring and auto-complete.
+
+Used in text processing tools.
+
 # Usage
 # 1) How to compile
     
