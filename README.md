@@ -73,5 +73,10 @@ They work together: the Lexer provides tokens, and the Parser uses them to under
        ->atleast two arguments and must it is .c file 
         ./a.out input.c
 
+# Sample Output
+
+<img width="1180" height="859" alt="image" src="https://github.com/user-attachments/assets/0db83609-eff0-4204-b4d6-202bca7b811c" />
+
+
 
 
