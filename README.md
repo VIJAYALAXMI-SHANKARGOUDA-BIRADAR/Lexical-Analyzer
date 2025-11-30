@@ -73,6 +73,26 @@ They work together: the Lexer provides tokens, and the Parser uses them to under
        ->atleast two arguments and must it is .c file 
         ./a.out input.c
 
+# Sample Input
+
+#include<stdio.h>
+
+int main()
+{
+    int a=1;
+    printf("lexical analyser project");
+
+    if(a==1)
+    {
+        printf("6");
+
+    }
+
+    return 0;
+}
+<img width="797" height="394" alt="image" src="https://github.com/user-attachments/assets/e9df440e-8ad3-441d-9368-a996af27e537" />
+
+
 # Sample Output
 
 <img width="1180" height="859" alt="image" src="https://github.com/user-attachments/assets/0db83609-eff0-4204-b4d6-202bca7b811c" />
