@@ -4,11 +4,15 @@ A Lexical Analyzer (also called lexer or scanner) is a program that reads a sequ
 
 # Requirements:
 
-Parameter	Details
-Language	Advanced C
-Compiler	GCC (GNU Compiler Collection.
-Operating System	Linux / Windows
-Libraries Used	<stdio.h>, <string.h>, <ctype.h>
+| Parameter        | Details                                |
+| ---------------- | -------------------------------------- |
+| Language         | Advanced C                             |
+| Compiler         | GCC (GNU Compiler Collection)          |
+| Operating System | Linux / Windows                        |
+| File Format      | CSV (Comma-Separated Values)           |
+| Libraries Used   | `<stdio.h>`, `<string.h>`, `<ctype.h>` |
+
+
 
 # Why This Project
 This project is a C program that simulates a basic lexical analyzer.
