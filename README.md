@@ -63,13 +63,13 @@ They work together: the Lexer provides tokens, and the Parser uses them to under
     
     gcc file_names.c
     ex: in my project
-    # gcc token.c keywords.c main.c
+    gcc token.c keywords.c main.c
 # 2) How to run
    
    
        ./a.out input_filename
-    ->atleast two arguments and must it is .c file
-    # ./a.out input.c
+       ->atleast two arguments and must it is .c file 
+       '''./a.out input.c
 
 
 
