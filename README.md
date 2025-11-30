@@ -69,7 +69,7 @@ They work together: the Lexer provides tokens, and the Parser uses them to under
    
        ./a.out input_filename
        ->atleast two arguments and must it is .c file 
-       '''bash ./a.out input.c
+        ./a.out input.c
 
 
 
