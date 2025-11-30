@@ -75,21 +75,26 @@ They work together: the Lexer provides tokens, and the Parser uses them to under
 
 # Sample Input
 
-#include<stdio.h>
 
-int main()
-{
-    int a=1;
-    printf("lexical analyser project");
 
-    if(a==1)
+
+
+
+    #include<stdio.h>
+
+    int main()
     {
+         int a=1;
+        printf("lexical analyser project");
+
+        if(a==1)
+        {
         printf("6");
 
-    }
+        }
 
     return 0;
-}
+    }
 <img width="797" height="394" alt="image" src="https://github.com/user-attachments/assets/e9df440e-8ad3-441d-9368-a996af27e537" />
 
 
